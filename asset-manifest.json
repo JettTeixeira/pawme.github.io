@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a52bd76.css",
-    "main.js": "/static/js/main.de6c8df8.js",
-    "static/js/787.914b5b80.chunk.js": "/static/js/787.914b5b80.chunk.js",
-    "static/media/principal-bg.jpg": "/static/media/principal-bg.7005bce7edbe491a3931.jpg",
-    "static/media/team-4.jpg": "/static/media/team-4.1aa806d52d93b039a32c.jpg",
-    "static/media/testimonials-2.jpg": "/static/media/testimonials-2.4b41e5c09698f7f4f9f9.jpg",
-    "static/media/team-2.jpg": "/static/media/team-2.02b9ccac32e2a66bffbf.jpg",
-    "static/media/team-1.jpg": "/static/media/team-1.7685df719f9429ed3a89.jpg",
-    "static/media/testimonials-1.jpg": "/static/media/testimonials-1.54f2a70e2804cdf6f09d.jpg",
-    "static/media/team-3.jpg": "/static/media/team-3.093cfdfa34483e0ca79f.jpg",
-    "static/media/testimonials-4.jpg": "/static/media/testimonials-4.58081dc8c31bc0e1cb6c.jpg",
-    "static/media/testimonials-3.jpg": "/static/media/testimonials-3.bec51ce16f238c7ec7b1.jpg",
-    "index.html": "/index.html",
-    "main.0a52bd76.css.map": "/static/css/main.0a52bd76.css.map",
-    "main.de6c8df8.js.map": "/static/js/main.de6c8df8.js.map",
-    "787.914b5b80.chunk.js.map": "/static/js/787.914b5b80.chunk.js.map"
+    "main.css": "/pawme.github.io/static/css/main.f1a4c561.css",
+    "main.js": "/pawme.github.io/static/js/main.96b2168a.js",
+    "static/js/787.914b5b80.chunk.js": "/pawme.github.io/static/js/787.914b5b80.chunk.js",
+    "static/media/principal-bg.jpg": "/pawme.github.io/static/media/principal-bg.7005bce7edbe491a3931.jpg",
+    "static/media/team-4.jpg": "/pawme.github.io/static/media/team-4.1aa806d52d93b039a32c.jpg",
+    "static/media/testimonials-2.jpg": "/pawme.github.io/static/media/testimonials-2.4b41e5c09698f7f4f9f9.jpg",
+    "static/media/team-2.jpg": "/pawme.github.io/static/media/team-2.02b9ccac32e2a66bffbf.jpg",
+    "static/media/team-1.jpg": "/pawme.github.io/static/media/team-1.7685df719f9429ed3a89.jpg",
+    "static/media/testimonials-1.jpg": "/pawme.github.io/static/media/testimonials-1.54f2a70e2804cdf6f09d.jpg",
+    "static/media/team-3.jpg": "/pawme.github.io/static/media/team-3.093cfdfa34483e0ca79f.jpg",
+    "static/media/testimonials-4.jpg": "/pawme.github.io/static/media/testimonials-4.58081dc8c31bc0e1cb6c.jpg",
+    "static/media/testimonials-3.jpg": "/pawme.github.io/static/media/testimonials-3.bec51ce16f238c7ec7b1.jpg",
+    "index.html": "/pawme.github.io/index.html",
+    "main.f1a4c561.css.map": "/pawme.github.io/static/css/main.f1a4c561.css.map",
+    "main.96b2168a.js.map": "/pawme.github.io/static/js/main.96b2168a.js.map",
+    "787.914b5b80.chunk.js.map": "/pawme.github.io/static/js/787.914b5b80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a52bd76.css",
-    "static/js/main.de6c8df8.js"
+    "static/css/main.f1a4c561.css",
+    "static/js/main.96b2168a.js"
   ]
 }
